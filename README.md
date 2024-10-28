@@ -3,7 +3,8 @@
 * 带有缓冲区域的视野灯塔管理
 
 
-
+# unity启动
+下载UI包Window-》Package Manager-》选择Unity Registry查找Unity UI选择install安装
 
 # server启动
 cd server

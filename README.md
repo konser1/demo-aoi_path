@@ -6,6 +6,12 @@
 
 
 # server启动
+cd server
+
+npm config set registry https://registry.npmmirror.com
+
+npm -i
+
 cd server/src
 
 npm install -g typescript

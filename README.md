@@ -5,7 +5,7 @@
 
 
 
-server启动
+#server启动
 cd server/src
 npm install -g typescript
 tsc

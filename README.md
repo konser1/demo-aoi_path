@@ -10,7 +10,7 @@ cd server
 
 npm config set registry https://registry.npmmirror.com
 
-npm -i
+npm install
 
 cd server/src
 
